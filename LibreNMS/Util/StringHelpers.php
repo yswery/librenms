@@ -55,6 +55,7 @@ class StringHelpers
             'freeradius' => 'FreeRADIUS',
             'gpsd' => 'GPSD',
             'mailcow-postfix' => 'mailcow-dockerized postfix',
+            'megaraid' => 'MegaRAID',
             'mysql' => 'MySQL',
             'nfs-server' => 'NFS Server',
             'nfs-stats' => 'NFS Stats',
